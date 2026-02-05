@@ -1,23 +1,77 @@
 [
     {
-        "title": "Homelab Lab Packs",
-        "summary": "Runnable lab environments built to teach and mentor—clean rebuilds, clear outcomes, real constraints.",
+        "title": "StreamDeck Profile Switcher (Razer Synapse)",
+        "summary": "Exploring a StreamDeck module to switch Razer Synapse profiles (Tartarus Pro + Naga Trinity) quickly and reliably.",
+        "primary_url": "REPLACE_ME_STREAMDECK_PRIMARY_URL",
         "links": [
-            "links": [
-                {
-                    "label": "github",
-                    "url": "https://github.com/Ksnarf/homelab-labs"
-                }
-            ]
-        },
-        {
-            "title": "Containerized Automation Stacks",
-            "summary": "Compose-based automation and dev workflows used to accelerate repeatability across projects.",
-            "links": [
-                {
-                    "label": "github",
-                    "url": "https://github.com/Ksnarf/docker-automation"
-                }
-            ]
-        }
-    ]
+            {
+                "label": "repo",
+                "url": "REPLACE_ME_STREAMDECK_REPO_URL"
+            },
+            {
+                "label": "notes",
+                "url": "REPLACE_ME_STREAMDECK_NOTES_URL"
+            }
+        ]
+    },
+    {
+        "title": "n8n ⇄ Notion Automation (Search + Update)",
+        "summary": "Experimenting with a clean workflow for making Notion DBs searchable and updatable via n8n, with safe field mapping and predictable updates.",
+        "primary_url": "REPLACE_ME_N8N_NOTION_PRIMARY_URL",
+        "links": [
+            {
+                "label": "repo",
+                "url": "REPLACE_ME_N8N_NOTION_REPO_URL"
+            },
+            {
+                "label": "workflow",
+                "url": "REPLACE_ME_N8N_NOTION_WORKFLOW_URL"
+            }
+        ]
+    },
+    {
+        "title": "LDAP → LDAPS Proxy + Logging Integrations",
+        "summary": "Hardened proxy with structured logging (timestamps, inbound/outbound) for syslog platforms and CloudWatch-style pipelines.",
+        "primary_url": "REPLACE_ME_LDAPS_PROXY_PRIMARY_URL",
+        "links": [
+            {
+                "label": "repo",
+                "url": "REPLACE_ME_LDAPS_PROXY_REPO_URL"
+            },
+            {
+                "label": "notes",
+                "url": "REPLACE_ME_LDAPS_PROXY_NOTES_URL"
+            }
+        ]
+    },
+    {
+        "title": "SaltStack / Ansible Lab Stacks",
+        "summary": "Building lightweight docker-compose labs that teach automation tooling through runnable examples instead of static docs.",
+        "primary_url": "REPLACE_ME_AUTOMATION_LABS_PRIMARY_URL",
+        "links": [
+            {
+                "label": "repo",
+                "url": "REPLACE_ME_AUTOMATION_LABS_REPO_URL"
+            },
+            {
+                "label": "labs",
+                "url": "REPLACE_ME_AUTOMATION_LABS_LABS_URL"
+            }
+        ]
+    },
+    {
+        "title": "TransportDisasters Content Pipeline (Game Visualizations)",
+        "summary": "Experimenting with a repeatable content pipeline for real-world disaster storytelling using game reenactments and consistent editing presets.",
+        "primary_url": "REPLACE_ME_TRANSPORTDISASTERS_PRIMARY_URL",
+        "links": [
+            {
+                "label": "repo",
+                "url": "REPLACE_ME_TRANSPORTDISASTERS_REPO_URL"
+            },
+            {
+                "label": "scripts",
+                "url": "REPLACE_ME_TRANSPORTDISASTERS_SCRIPTS_URL"
+            }
+        ]
+    }
+]
