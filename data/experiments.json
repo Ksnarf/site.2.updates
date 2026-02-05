@@ -1,16 +1,86 @@
-{
-    "title": "StreamDeck Profile Switcher (Razer Synapse)",
-    "summary": "Exploring a StreamDeck module to switch Razer Synapse profiles quickly and reliably.",
-    "tags": [
-        "Windows",
-        "HID",
-        "Automation"
-    ],
-    "primary_url": "https://github.com/Ksnarf/REPLACE_ME",
-    "links": [
-        {
-            "label": "repo",
-            "url": "https://github.com/Ksnarf/REPLACE_ME"
-        }
-    ]
-}
+[
+    {
+        "title": "StreamDeck Profile Switcher (Razer Synapse)",
+        "summary": "Exploring a StreamDeck module to switch Synapse profiles for Tartarus Pro + Naga Trinity quickly and reliably.",
+        "tags": [
+            "Windows",
+            "HID",
+            "Automation"
+        ],
+        "primary_url": "https://github.com/Ksnarf",
+        "links": [
+            {
+                "label": "repo",
+                "url": "https://github.com/Ksnarf"
+            },
+            {
+                "label": "notes",
+                "url": "https://github.com/Ksnarf/site.2.updates"
+            }
+        ]
+    },
+    {
+        "title": "n8n ⇄ Notion Automation",
+        "summary": "Workflows for searchable + updatable Notion DBs via n8n with safe mappings and predictable updates.",
+        "tags": [
+            "n8n",
+            "Notion",
+            "Integrations"
+        ],
+        "primary_url": "https://github.com/Ksnarf",
+        "links": [
+            {
+                "label": "repo",
+                "url": "https://github.com/Ksnarf"
+            }
+        ]
+    },
+    {
+        "title": "LDAP → LDAPS Proxy + Observability",
+        "summary": "Structured logging with timestamps + inbound/outbound context; pipelines for syslog and cloud log targets.",
+        "tags": [
+            "Security",
+            "Logging",
+            "Networking"
+        ],
+        "primary_url": "https://github.com/Ksnarf",
+        "links": [
+            {
+                "label": "repo",
+                "url": "https://github.com/Ksnarf"
+            }
+        ]
+    },
+    {
+        "title": "SaltStack / Ansible Lab Stacks",
+        "summary": "Containerized labs for teaching automation through runnable examples instead of static docs.",
+        "tags": [
+            "Salt",
+            "Ansible",
+            "Labs"
+        ],
+        "primary_url": "https://github.com/Ksnarf",
+        "links": [
+            {
+                "label": "repo",
+                "url": "https://github.com/Ksnarf"
+            }
+        ]
+    },
+    {
+        "title": "TransportDisasters Content Pipeline",
+        "summary": "Repeatable production pipeline for real-world incident storytelling with consistent visual capture + edit presets.",
+        "tags": [
+            "Content",
+            "Pipelines",
+            "Templates"
+        ],
+        "primary_url": "https://github.com/Ksnarf",
+        "links": [
+            {
+                "label": "repo",
+                "url": "https://github.com/Ksnarf"
+            }
+        ]
+    }
+]
