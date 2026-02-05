@@ -3,20 +3,21 @@
         "title": "Homelab Lab Packs",
         "summary": "Runnable lab environments built to teach and mentor—clean rebuilds, clear outcomes, real constraints.",
         "links": [
-            {
-                "label": "updates",
-                "url": "https://github.com/Ksnarf/site.2.updates"
-            }
-        ]
-    },
-    {
-        "title": "Containerized Automation Stacks",
-        "summary": "Compose-based automation and dev workflows used to accelerate repeatability across projects.",
-        "links": [
-            {
-                "label": "GitHub",
-                "url": "https://github.com/Ksnarf"
-            }
-        ]
-    }
-]
+            "links": [
+                {
+                    "label": "github",
+                    "url": "https://github.com/Ksnarf/homelab-labs"
+                }
+            ]
+        },
+        {
+            "title": "Containerized Automation Stacks",
+            "summary": "Compose-based automation and dev workflows used to accelerate repeatability across projects.",
+            "links": [
+                {
+                    "label": "github",
+                    "url": "https://github.com/Ksnarf/docker-automation"
+                }
+            ]
+        }
+    ]

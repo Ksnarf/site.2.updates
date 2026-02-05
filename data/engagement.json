@@ -1,13 +1,9 @@
 {
-    "email": "REPLACE_ME@domain.com",
+    "email": "ksnarf@ksnarf.dev",
     "links": [
         {
             "label": "GitHub",
             "url": "https://github.com/Ksnarf"
-        },
-        {
-            "label": "Professional Site",
-            "url": "https://krissanders.com"
         }
     ]
 }
