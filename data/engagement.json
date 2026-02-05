@@ -1,9 +1,13 @@
 {
-    "email": "ksnarf@ksnarf.dev",
+    "email": "jobs@ksnarf.dev",
     "links": [
         {
-            "label": "GitHub",
+            "label": "github",
             "url": "https://github.com/Ksnarf"
+        },
+        {
+            "label": "discord",
+            "url": "REPLACE_ME_DISCORD_URL"
         }
     ]
 }
