@@ -151,4 +151,25 @@
             }
         ]
     }
+    {
+        "title": "RSS Feeder to DiscordBot ",
+        "summary": "A modular, tag-driven PKM system built for flexibility, speed, and long-term knowledge retention.",
+        "status": {
+            "label": "Queued",
+            "kind": "good"
+        },
+        "tags": [
+            "RSS",
+            "Discord",
+            "Bots",
+            "Integrations"
+        ],
+        "primary_url": "https://github.com/Ksnarf",
+        "links": [
+            {
+                "label": "repo",
+                "url": "https://github.com/Ksnarf"
+            }
+        ]
+    }
 ]
