@@ -1,81 +1,9 @@
 [
     {
-        "name": "System Gold Image Pipeline",
-        "description": "Unified image pipeline for Ubuntu, RHEL, Windows Server, and Windows Workstation. Repeatable, hardened baselines built to rebuild cleanly and ship consistently.",
-        "status": {
-            "label": "Shipped",
-            "kind": "good"
-        },
-        "tags": [
-            "Images",
-            "IaC",
-            "Automation"
-        ],
-        "primary_url": "REPLACE_ME_SYSTEM_GOLD_PRIMARY_URL",
-        "links": [
-            {
-                "label": "repo",
-                "url": "REPLACE_ME_SYSTEM_GOLD_REPO_URL"
-            },
-            {
-                "label": "notes",
-                "url": "REPLACE_ME_SYSTEM_GOLD_NOTES_URL"
-            }
-        ]
-    },
-    {
-        "name": "FiveM Infrastructure (Codename: Nightshift)",
-        "description": "Performance-first FiveM server infrastructure: clean resource boundaries, scalable layout, and an operations mindset built for stability and iteration.",
-        "status": {
-            "label": "Stable",
-            "kind": "good"
-        },
-        "tags": [
-            "Game Infra",
-            "Docker",
-            "Performance"
-        ],
-        "primary_url": "REPLACE_ME_FIVEM_PRIMARY_URL",
-        "links": [
-            {
-                "label": "repo",
-                "url": "REPLACE_ME_FIVEM_REPO_URL"
-            },
-            {
-                "label": "docs",
-                "url": "REPLACE_ME_FIVEM_DOCS_URL"
-            }
-        ]
-    },
-    {
-        "name": "GZW Intel (Grey Zone Warfare Map Site)",
-        "description": "A fast, clean Intel/map site project for Grey Zone Warfare — built to be lightweight, searchable, and easy to iterate on.",
-        "status": {
-            "label": "Live",
-            "kind": "good"
-        },
-        "tags": [
-            "Web",
-            "Gaming",
-            "Tooling"
-        ],
-        "primary_url": "REPLACE_ME_GZW_SITE_URL",
-        "links": [
-            {
-                "label": "site",
-                "url": "REPLACE_ME_GZW_SITE_URL"
-            },
-            {
-                "label": "repo",
-                "url": "REPLACE_ME_GZW_REPO_URL"
-            }
-        ]
-    },
-    {
         "name": "Homelab Automation Platform",
         "description": "A reproducible lab environment used to test designs before production: containers, routing, services, and automation patterns that are teachable and repeatable.",
         "status": {
-            "label": "Shipped",
+            "label": "Alpha Testing",
             "kind": "good"
         },
         "tags": [
@@ -92,30 +20,6 @@
             {
                 "label": "writeup",
                 "url": "REPLACE_ME_HOMELAB_WRITEUP_URL"
-            }
-        ]
-    },
-    {
-        "name": "Highlife Support Agent (Ops Assistant)",
-        "description": "A first-level engineering support agent concept: monitoring, confirmation loops via chat, and safe automation hooks for operational actions.",
-        "status": {
-            "label": "Complete",
-            "kind": "good"
-        },
-        "tags": [
-            "Observability",
-            "Automation",
-            "ChatOps"
-        ],
-        "primary_url": "REPLACE_ME_HIGHLIFE_PRIMARY_URL",
-        "links": [
-            {
-                "label": "repo",
-                "url": "REPLACE_ME_HIGHLIFE_REPO_URL"
-            },
-            {
-                "label": "design",
-                "url": "REPLACE_ME_HIGHLIFE_DESIGN_URL"
             }
         ]
     }
