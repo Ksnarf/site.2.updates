@@ -143,6 +143,12 @@
             "Notion",
             "Productivity"
         ],
-        "primary_url": "
+        "primary_url": "https://github.com/Ksnarf",
+        "links": [
+            {
+                "label": "repo",
+                "url": "https://github.com/Ksnarf"
+            }
+        ]
     }
 ]
