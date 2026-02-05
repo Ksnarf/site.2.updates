@@ -11,15 +11,15 @@
             "Automation",
             "Ops"
         ],
-        "primary_url": "REPLACE_ME_HOMELAB_PRIMARY_URL",
+        "primary_url": "https://github.com/Ksnarf",
         "links": [
             {
                 "label": "repo",
-                "url": "REPLACE_ME_HOMELAB_REPO_URL"
+                "url": "https://github.com/Ksnarf"
             },
             {
                 "label": "writeup",
-                "url": "REPLACE_ME_HOMELAB_WRITEUP_URL"
+                "url": "https://github.com/Ksnarf"
             }
         ]
     }
