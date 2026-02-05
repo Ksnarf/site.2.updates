@@ -1,0 +1,97 @@
+[
+    {
+        "name": "System Gold Image Pipeline",
+        "status": {
+            "label": "Active / Evolving",
+            "kind": "good"
+        },
+        "tags": [
+            "Automation",
+            "Infrastructure",
+            "Teaching"
+        ],
+        "description": "Unified system image pipeline covering Ubuntu, RHEL, Windows Server, and workstation builds—repeatable baselines, hardening, and distribution patterns.",
+        "links": [
+            {
+                "label": "notes",
+                "url": "https://github.com/Ksnarf/site.2.updates"
+            }
+        ]
+    },
+    {
+        "name": "Highlife — AI-Assisted Infrastructure Support",
+        "status": {
+            "label": "Active",
+            "kind": "good"
+        },
+        "tags": [
+            "Automation",
+            "Ops",
+            "AI"
+        ],
+        "description": "A first-line infrastructure support agent with human-in-the-loop confirmations, monitoring visibility, and safe operational actions via chat integrations.",
+        "links": [
+            {
+                "label": "notes",
+                "url": "https://github.com/Ksnarf/site.2.updates"
+            }
+        ]
+    },
+    {
+        "name": "Modular Game Server Infrastructure",
+        "status": {
+            "label": "Active",
+            "kind": "good"
+        },
+        "tags": [
+            "Game Infra",
+            "Performance",
+            "Systems"
+        ],
+        "description": "Performance-first game server platform focused on modularity, stability, and operational clarity—built with production discipline, without exposing the final project name.",
+        "links": [
+            {
+                "label": "notes",
+                "url": "https://github.com/Ksnarf/site.2.updates"
+            }
+        ]
+    },
+    {
+        "name": "Homelab Reference Architecture",
+        "status": {
+            "label": "Maintained",
+            "kind": "warn"
+        },
+        "tags": [
+            "Homelab",
+            "Infrastructure",
+            "Teaching"
+        ],
+        "description": "A living homelab design used for R&D, validation, and mentorship—where systems are tested, broken, rebuilt, and shared as reference builds.",
+        "links": [
+            {
+                "label": "notes",
+                "url": "https://github.com/Ksnarf/site.2.updates"
+            }
+        ]
+    },
+    {
+        "name": "Greyzone Warfare Map Platform",
+        "status": {
+            "label": "Active",
+            "kind": "good"
+        },
+        "tags": [
+            "Tooling",
+            "Community",
+            "Systems"
+        ],
+        "description": "Community-focused mapping and tooling platform designed for usability, accuracy, maintainability, and performance at scale.",
+        "links": [
+            {
+                "label": "repo(s)",
+                "url": "https://github.com/Ksnarf"
+            }
+        ]
+    }
+]
